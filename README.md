@@ -1,4 +1,8 @@
 # Birthday...
 Just Run it and see the magic...
-IF you wanna use this... you can... just simply follow this steps 
-Go in 
+
+IF you wanna use this... you can... 
+just simply follow this steps 
+
+Go in customize.json file and change your name and messages which you want.
+
